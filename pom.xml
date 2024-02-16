@@ -216,7 +216,7 @@
 
   <pluginRepositories>
     <pluginRepository>
-      <id>spring-snapshot</id>
+      <id>spring-snapshots</id>
       <name>Spring Snapshots</name>
       <url>https://repo.spring.io/snapshot</url>
       <snapshots>
